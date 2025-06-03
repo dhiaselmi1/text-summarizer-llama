@@ -77,14 +77,3 @@ Simply enter or paste any long text into the input box on the Streamlit page and
 
 ---
 
-## 📁 Project Structure
-
-llama-text-summarizer/
-├── backend/
-│   ├── init.py
-│   └── main.py          # FastAPI application
-├── frontend/
-│   └── app.py           # Streamlit application
-├── venv/                # Virtual environment
-├── requirements.txt     # Python dependencies
-└── README.md            # This file
